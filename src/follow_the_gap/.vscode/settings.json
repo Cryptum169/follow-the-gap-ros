@@ -1,0 +1,8 @@
+{
+    "atomKeymap.promptV3Features": true,
+    "files.associations": {
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp"
+    }
+}

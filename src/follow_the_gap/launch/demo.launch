@@ -1,0 +1,5 @@
+<launch>
+    <node name = "find_gap" pkg = "follow_the_gap" type = "find_gap" />
+    <node name = "get_goal" pkg = "follow_the_gap" type = "get_goal" />
+    <node name = "run" pkg = "follow_the_gap" type = "run" />
+</launch>
